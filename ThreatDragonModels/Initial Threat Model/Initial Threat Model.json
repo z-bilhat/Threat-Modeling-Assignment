@@ -17,10 +17,10 @@
         "thumbnail": "./public/content/images/thumbnail.stride.jpg",
         "version": "2.1.2",
         "cells": [],
-        "description": "Initial Threat Model Diagram"
+        "description": ""
       }
     ],
-    "diagramTop": 5,
+    "diagramTop": 6,
     "reviewer": "test",
     "threatTop": 0
   }
