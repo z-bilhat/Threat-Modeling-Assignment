@@ -1,0 +1,27 @@
+{
+  "version": "2.1.2",
+  "summary": {
+    "title": "Initial Threat Model",
+    "owner": "bilhat",
+    "description": "The ShepherdTrack system is built as a web application using Angular for the front end and Java (likely using a framework like Spring Boot) for the back end. The system follows a client-server model where the client interacts with the server through a RESTful API.",
+    "id": 0
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [
+      {
+        "id": 4,
+        "title": "Initial Threat Model Diagram",
+        "diagramType": "STRIDE",
+        "placeholder": "New STRIDE diagram description",
+        "thumbnail": "./public/content/images/thumbnail.stride.jpg",
+        "version": "2.1.2",
+        "cells": [],
+        "description": "Initial Threat Model Diagram"
+      }
+    ],
+    "diagramTop": 5,
+    "reviewer": "test",
+    "threatTop": 0
+  }
+}
