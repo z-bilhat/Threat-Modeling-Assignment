@@ -775,6 +775,55 @@
             "labels": [
               "Massage of the Day "
             ]
+          },
+          {
+            "shape": "flow",
+            "attrs": {
+              "line": {
+                "stroke": "#333333",
+                "targetMarker": {
+                  "name": "block"
+                },
+                "sourceMarker": {
+                  "name": ""
+                },
+                "strokeDasharray": null
+              }
+            },
+            "width": 200,
+            "height": 100,
+            "zIndex": 10,
+            "connector": "smooth",
+            "data": {
+              "type": "tm.Flow",
+              "name": "comment",
+              "description": "",
+              "outOfScope": false,
+              "isBidirectional": false,
+              "reasonOutOfScope": "",
+              "protocol": "",
+              "isEncrypted": false,
+              "isPublicNetwork": false,
+              "hasOpenThreats": false,
+              "threats": []
+            },
+            "id": "adc877e2-bdb3-42d3-aee9-16c93f149169",
+            "source": {
+              "x": -377,
+              "y": -229
+            },
+            "target": {
+              "cell": "6865a708-4c50-4c3e-833b-c45af961db27"
+            },
+            "vertices": [
+              {
+                "x": -440,
+                "y": -60
+              }
+            ],
+            "labels": [
+              "comment"
+            ]
           }
         ],
         "format": "td"
